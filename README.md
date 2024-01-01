@@ -2,5 +2,6 @@
 
 Below are the link for my video assignment of C++
 
-https://youtu.be/XAb6mvh7QS4?si=_AUYaC210rI2Qz6l
-https://youtu.be/XAb6mvh7QS4?si=w1y01CoEYK3ti5nD
+https://youtu.be/0-mpPN8rchI
+
+https://youtu.be/XAb6mvh7QS4
